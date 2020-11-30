@@ -45,9 +45,8 @@ void main()
 	
 	free(arr);
 
-	/*for (int i = 0;i < num_of_elems;i++)
+	for (int i = 0;i < num_of_elems;i++)
 	{
 		printf("%d\n", arr[i]);
-	}*/
-	
+	}
 }
